@@ -49,6 +49,8 @@ python app.py          # open http://127.0.0.1:7860
 
 ## The app
 
+![California House Price Predictor (Gradio app)](images/gradio_app.png)
+
 Move the sliders (or pick an example: San Francisco, Los Angeles, Fresno) and press **Predict**. It shows two predictions side by side:
 
 - **Model 1** uses income only, so changing the location doesn't affect it.
